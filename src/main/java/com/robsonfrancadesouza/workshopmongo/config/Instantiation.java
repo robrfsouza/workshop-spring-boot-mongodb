@@ -1,6 +1,5 @@
 package com.robsonfrancadesouza.workshopmongo.config;
 
-import java.lang.reflect.Array;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.TimeZone;
